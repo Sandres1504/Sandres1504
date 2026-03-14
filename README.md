@@ -54,5 +54,6 @@ Busco oportunidades remotas como desarrollador web junior para adquirir experien
 
 ## 📫 Contacto
 
-📧 [tuemail@gmail.com](mailto:tuemail@gmail.com)
-💼 LinkedIn: (cuando lo tengas)
+📧 Camiover04@gmail.com
+
+💼 LinkedIn:
