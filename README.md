@@ -24,7 +24,7 @@ Soy un desarrollador apasionado por el despliegue de soluciones funcionales, mez
 * C
 
 **Entorno & Herramientas:**
-* **OS:** Ubuntu (Primario) / Windows
+* **OS:** Ubuntu / Windows (primario)
 * **Dev:** Git / GitHub, Visual Studio Code, XAMPP, rEFInd
 * **Hardware:** Mantenimiento y optimización de PC/Laptops
 
@@ -32,7 +32,7 @@ Soy un desarrollador apasionado por el despliegue de soluciones funcionales, mez
 
 ## 🧩 Proyectos Destacados
 
-### 🧥 [Realgods - E-commerce Lab](https://github.com/tu-usuario/realgods)
+### 🧥 [Realgods - E-commerce Lab]
 Una aplicación web moderna (SPA) construida con **React** para mi marca de ropa. Incluye carrito de compras inteligente con agrupación de productos, notas personalizadas para pedidos y salida de datos vía WhatsApp API.
 
 ### ⚙️ Sistema de Gestión para Autorepuestos Sildemar
